@@ -76,7 +76,7 @@ To run the analysis and visualizations, you'll need to have Python and the neces
 
 The PowerBI dashboard provides an interactive way to explore the healthcare data. It includes various charts and graphs to help users gain insights into patient diagnoses, feedback scores, bed occupancy, and more.
 
-![PowerBI Dashboard Screenshot]( the)
+![PowerBI Dashboard Screenshot](https://github.com/pawanm07/HealthcareCustomerChurnAnalysis/blob/main/Dashboard%20img1.png)
 
 ### Matplotlib Visualizations
 
