@@ -143,3 +143,7 @@ The PowerBI dashboard provides an interactive way to explore the healthcare data
     ```
 
 ## Contributing
+- Fork the repository.
+- Create a new branch for your feature or improvement.
+- Commit your changes and push to your fork.
+- Create a pull request with a detailed description of your changes.
