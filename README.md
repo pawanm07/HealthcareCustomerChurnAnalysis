@@ -1,4 +1,4 @@
-# HealthcareCustomerChurnAnalysis
+# Healthcare Customer Churn Analysis
 
 This project aims to analyze healthcare data to uncover insights regarding patient diagnoses, feedback, bed occupancy, and other important metrics. The analysis includes visualizations using PowerBI, Matplotlib, and Plotly.
 
