@@ -55,6 +55,21 @@ To run the analysis and visualizations, you'll need to have Python and the neces
     pip install -r requirements.txt
     ```
 
+### Required Libraries
+
+Make sure the following libraries are installed:
+
+- pandas
+- numpy
+- matplotlib
+- plotly
+- jupyter
+
+You can install these libraries using the following command:
+```bash
+pip install pandas numpy matplotlib plotly jupyter
+```
+
 ## Usage
 
 1. **Running the Analysis**:
@@ -71,6 +86,8 @@ To run the analysis and visualizations, you'll need to have Python and the neces
         ```
 
 ## Analysis and Visualizations
+- Ensure all CSV files are in the same directory as main.py.
+- Run the main script:
 
 ### PowerBI Dashboard
 
