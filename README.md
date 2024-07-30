@@ -87,7 +87,7 @@ pip install pandas numpy matplotlib plotly jupyter
 
 ## Analysis and Visualizations
 - Ensure all CSV files are in the same directory as main.py.
-- Run the main script:
+- Run the main script.
 
 ### PowerBI Dashboard
 
